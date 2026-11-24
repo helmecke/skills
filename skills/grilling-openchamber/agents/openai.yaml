@@ -1,0 +1,3 @@
+interface:
+  display_name: "Grilling (OpenChamber)"
+  short_description: "Ask grilling's frontier one OpenChamber form at a time"
